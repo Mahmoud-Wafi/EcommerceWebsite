@@ -1,0 +1,5 @@
+.brand-link img {
+    max-height: 40px !important;
+    /* adjust size */
+    width: auto !important;
+}

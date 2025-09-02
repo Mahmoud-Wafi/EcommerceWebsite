@@ -1,0 +1,9 @@
+/* Force logo small size */
+
+.brand-link img {
+    height: 10px !important;
+    /* adjust height */
+    width: 5px !important;
+    /* keeps proportions */
+    max-height: 10px !important;
+}
